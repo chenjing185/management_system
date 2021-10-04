@@ -1,0 +1,7 @@
+com\itcast\ssm\controller\PermissionController.class
+com\itcast\ssm\controller\ProductController.class
+com\itcast\ssm\controller\LogAop.class
+com\itcast\ssm\controller\RoleController.class
+com\itcast\ssm\controller\OrdersController.class
+com\itcast\ssm\controller\SysLogController.class
+com\itcast\ssm\controller\UserController.class
