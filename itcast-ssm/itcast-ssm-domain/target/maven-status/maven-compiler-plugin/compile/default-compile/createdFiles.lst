@@ -1,0 +1,8 @@
+com\itcast\ssm\domain\SysLog.class
+com\itcast\ssm\domain\UserInfo.class
+com\itcast\ssm\domain\Traveller.class
+com\itcast\ssm\domain\Member.class
+com\itcast\ssm\domain\Orders.class
+com\itcast\ssm\domain\Permission.class
+com\itcast\ssm\domain\Product.class
+com\itcast\ssm\domain\Role.class

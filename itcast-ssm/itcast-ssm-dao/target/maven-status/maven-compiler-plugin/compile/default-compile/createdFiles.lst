@@ -1,0 +1,8 @@
+com\itcast\ssm\dao\SysLogDao.class
+com\itcast\ssm\dao\OrdersDao.class
+com\itcast\ssm\dao\RoleDao.class
+com\itcast\ssm\dao\PermissionDao.class
+com\itcast\ssm\dao\MemberDao.class
+com\itcast\ssm\dao\ProductDao.class
+com\itcast\ssm\dao\UserDao.class
+com\itcast\ssm\dao\TravellerDao.class
